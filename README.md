@@ -20,4 +20,6 @@ Typical install time: 1 minute
 Usage
 -----
 
-Please see examples and usage guide in the [Wiki](https://biof-git.colorado.edu/biofrontiers-imaging/palmer-zinc-cell-cycle/wikis/home)
+Please see examples, usage guide, and expected output files in the [Wiki](https://biof-git.colorado.edu/biofrontiers-imaging/palmer-zinc-cell-cycle/wikis/home)
+
+Expected run time for tracking code: Approximately 2 - 4 hours depending on number of cells in movie.
