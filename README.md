@@ -1,7 +1,7 @@
 System Requirements
 ===================
 
-* Compiled and tested with MATLAB R2019a, R2017b on Windows 10 64-bit
+* Compiled and tested with MATLAB R2017b and R2019a on Windows 7 and Windows 10 (64-bit).
 
 Installation Guide
 ==================
