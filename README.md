@@ -1,3 +1,6 @@
+This code is from the publication M. N. Lo, L. J. Damon, J. W. Tay, S. Jia, and A. E. Palmer. Single cell analysis reveals multiple requirements for zinc in the mammalian cell cycle. eLife 51107, 2020.
+
+
 System Requirements
 ===================
 
@@ -57,3 +60,8 @@ Data analysis
   plot(CDK2nucl ./ CDK2ctyo)
   
 For additional examples and a fullusage guide, please see the [Wiki](https://biof-git.colorado.edu/biofrontiers-imaging/palmer-zinc-cell-cycle/wikis/home)
+
+
+## Author
+
+This code was written by Dr. Jian Wei Tay (jian.tay@colorado.edu)
